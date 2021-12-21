@@ -1,0 +1,5 @@
+<map id="ConfigurationTemplate" name="ConfigurationTemplate">
+<area shape="rect" id="node1" title=" " alt="" coords="5,551,212,672"/>
+<area shape="rect" id="node2" title=" " alt="" coords="77,5,129,83"/>
+<area shape="rect" id="node3" href="$class_entity_interface.html" title=" " alt="" coords="125,132,361,488"/>
+</map>
